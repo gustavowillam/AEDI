@@ -10,6 +10,10 @@
 
 ## [Aula 05 - Introdução ao Python](https://github.com/gustavowillam/AEDI/blob/main/Aula%2005.pdf)
 
+* ### [Colab Notebook - Hello World](https://colab.research.google.com/drive/1Cnmiokm3lLMsdOKcrXg8ASKgKRS2KqTa?usp=sharing)
+
+* ### [Colab Notebook - Comandos Sequenciais no Python](https://colab.research.google.com/drive/1l_0h3YxbZsBPRkNYXqSnm2AHFHRTRkrI?usp=sharing)
+
 ## [Aula 06 - Estrutura de Seleção no Python](https://github.com/gustavowillam/AEDI/blob/main/Aula%2006.pdf)
 
 ## [Aula 07 - Estrutura de Repetição no Python](https://github.com/gustavowillam/AEDI/blob/main/Aula%2007.pdf)

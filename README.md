@@ -2,5 +2,5 @@
 
 ## Introdução a Programação de Computadores
 
-### [Aula 01] 
+### Aula 01 - Lógica de Programação 
 

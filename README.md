@@ -10,13 +10,17 @@
 
 ## [Aula 05 - Introdução ao Python](https://github.com/gustavowillam/AEDI/blob/main/Aula%2005.pdf)
 
-* ### [Colab Notebook - Hello World](https://colab.research.google.com/drive/1Cnmiokm3lLMsdOKcrXg8ASKgKRS2KqTa?usp=sharing)
+* ### [Colab - Hello World](https://colab.research.google.com/drive/1Cnmiokm3lLMsdOKcrXg8ASKgKRS2KqTa?usp=sharing)
 
-* ### [Colab Notebook - Comandos Sequenciais no Python](https://colab.research.google.com/drive/1l_0h3YxbZsBPRkNYXqSnm2AHFHRTRkrI?usp=sharing)
+* ### [Colab - Comandos Sequenciais no Python](https://colab.research.google.com/drive/1l_0h3YxbZsBPRkNYXqSnm2AHFHRTRkrI?usp=sharing)
 
 ## [Aula 06 - Estrutura de Seleção no Python](https://github.com/gustavowillam/AEDI/blob/main/Aula%2006.pdf)
 
+* ### [Colab - Comandos de Seleção no Python](https://colab.research.google.com/drive/1VU7YmaTivnwpD35kwPj07dNZfEkYYZIN?usp=sharing)
+
 ## [Aula 07 - Estrutura de Repetição no Python](https://github.com/gustavowillam/AEDI/blob/main/Aula%2007.pdf)
+
+* ### [Colab - Comandos de Repetição no Python](https://colab.research.google.com/drive/1MQ4EkbfCdVIml3nw7XAX6rxnXpeo1bA7?usp=sharing)
 
 ## [Aula 08 - Manipulação de Strings no Python](https://github.com/gustavowillam/AEDI/blob/main/Aula%2008.pdf)
 

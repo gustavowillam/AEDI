@@ -26,6 +26,8 @@
 
 ## [Aula 09 - Funções no Python](https://github.com/gustavowillam/AEDI/blob/main/Aula%2009.pdf)
 
+* ### [Colab - Funções no Python](https://colab.research.google.com/drive/1nJofdo0MSr8p_e9YHTnZs-bWGFD9AVdm?usp=sharing)
+
 ## [Aula 10 - Métodos de Ordenação e Pesquisa em Python](https://github.com/gustavowillam/AEDI/blob/main/Aula%2010.pdf)
 
 ## [Aula 11 - Biblioteca Pandas - Parte I](https://github.com/gustavowillam/AEDI/blob/main/Aula%2011.pdf)

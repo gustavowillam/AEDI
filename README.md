@@ -1,4 +1,4 @@
-# Algoritmos e Estrutura de Dados I
+# Algoritmos e Estrutura de Dados I - Material das Aulas
 
 ## [Aula 01 - Lógica de Programação](https://github.com/gustavowillam/AEDI/blob/main/Aula%2001.pdf)
 
@@ -30,9 +30,21 @@
 
 ## [Aula 10 - Métodos de Ordenação e Pesquisa em Python](https://github.com/gustavowillam/AEDI/blob/main/Aula%2010.pdf)
 
-## [Aula 11 - Biblioteca Pandas - Parte I](https://github.com/gustavowillam/AEDI/blob/main/Aula%2011.pdf)
+## [Aula 11 - Biblioteca Numpy - Parte I
 
-## [Aula 12 - Bibliteca Pandas - Parte II](https://github.com/gustavowillam/AEDI/blob/main/Aula%2012.pdf)
+## [Aula 12 - Biblioteca Numpy - Parte II
+
+## [Aula 13 - Biblioteca Pandas - Parte I](https://github.com/gustavowillam/AEDI/blob/main/Aula%2011.pdf)
+
+## [Aula 14 - Bibliteca Pandas - Parte II](https://github.com/gustavowillam/AEDI/blob/main/Aula%2012.pdf)
+
+# Material Complementar sobre Python
+
+## [Canal Youtube - Agricultura Digital (PlayList sobre Python](https://www.youtube.com/playlist?list=PLVmqNeV0L_zvTZC3uRvzMpySm4XzDVLHS)
+
+## [Canal Youtube - Programação Livre (DPI-UFV)](https://sites.google.com/view/cursosdpi/in%C3%ADcio?authuser=0)
+
+
 
 
 

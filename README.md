@@ -30,13 +30,14 @@
 
 ## [Aula 10 - Métodos de Ordenação e Pesquisa em Python](https://github.com/gustavowillam/AEDI/blob/main/Aula%2010.pdf)
 
-## [Aula 11 - Biblioteca Numpy - Parte I
+## [Aula 11 - Biblioteca Numpy - Parte I]()
 
-## [Aula 12 - Biblioteca Numpy - Parte II
+## [Aula 12 - Biblioteca Numpy - Parte II]()
 
 ## [Aula 13 - Biblioteca Pandas - Parte I](https://github.com/gustavowillam/AEDI/blob/main/Aula%2011.pdf)
 
-## [Aula 14 - Bibliteca Pandas - Parte II](https://github.com/gustavowillam/AEDI/blob/main/Aula%2012.pdf)
+## [Aula 14 - Biblioteca Pandas - Parte II](https://github.com/gustavowillam/AEDI/blob/main/Aula%2012.pdf)
+
 
 # Material Complementar sobre Python
 

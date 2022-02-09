@@ -30,14 +30,23 @@
 
 ## [Aula 10 - Métodos de Ordenação e Pesquisa em Python](https://github.com/gustavowillam/AEDI/blob/main/Aula%2010.pdf)
 
-## [Aula 11 - Biblioteca Numpy - Parte I]()
+* ### [Colab - Ordenação e Pesquisa em Python]()
 
-## [Aula 12 - Biblioteca Numpy - Parte II]()
+## [Aula 11 - Biblioteca Numpy - Parte I](https://github.com/gustavowillam/AEDI/blob/main/Aula%2011.pdf)
 
-## [Aula 13 - Biblioteca Pandas - Parte I](https://github.com/gustavowillam/AEDI/blob/main/Aula%2011.pdf)
+* ### [Colab - Biblioteca Numpy - Parte I](https://colab.research.google.com/drive/1oI6n6qTV90Bdd6zVqY-6UR3nK6n0WRl3?usp=sharing)
 
-## [Aula 14 - Biblioteca Pandas - Parte II](https://github.com/gustavowillam/AEDI/blob/main/Aula%2012.pdf)
+## [Aula 12 - Biblioteca Numpy - Parte II](https://github.com/gustavowillam/AEDI/blob/main/Aula%2012.pdf)
 
+* ### [Colab - Biblioteca Numpy - Parte II](https://colab.research.google.com/drive/1Vr60fvxXF7sEVJRlgTdEZKyUnDpdSRCh?usp=sharing)
+
+## [Aula 13 - Biblioteca Pandas - Parte I](https://github.com/gustavowillam/AEDI/blob/main/Aula%2013.pdf)
+
+* ### [Colab - Biblioteca Pandas - Parte I]()
+
+## [Aula 14 - Biblioteca Pandas - Parte II](https://github.com/gustavowillam/AEDI/blob/main/Aula%2014.pdf)
+
+* ### [Colab - Biblioteca Pandas - Parte II]()
 
 # Material Complementar sobre Python
 

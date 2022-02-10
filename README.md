@@ -48,9 +48,9 @@
 
 * ### [Colab - Biblioteca Pandas - Parte II](https://colab.research.google.com/drive/1efB2DDEqZkrDaZdGeGac5icbre4rRd8R?usp=sharing)
 
-## [Aula 15 - Biblioteca Pandas - Parte III](https://github.com/gustavowillam/AEDI/blob/main/Aula%2014.pdf)
+## [Aula 15 - Biblioteca Pandas - Parte III](https://github.com/gustavowillam/AEDI/blob/main/Aula%2015.pdf)
 
-* ### [Colab - Biblioteca Pandas - Parte II](https://colab.research.google.com/drive/1efB2DDEqZkrDaZdGeGac5icbre4rRd8R?usp=sharing)
+* ### [Colab - Biblioteca Pandas - Parte III](https://colab.research.google.com/drive/103lCddny1Z73YcEDqLGFuAQS_NBzLolf?usp=sharing)
 
 
 # Material Complementar sobre Python

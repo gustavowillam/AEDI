@@ -48,6 +48,11 @@
 
 * ### [Colab - Biblioteca Pandas - Parte II](https://colab.research.google.com/drive/1efB2DDEqZkrDaZdGeGac5icbre4rRd8R?usp=sharing)
 
+## [Aula 15 - Biblioteca Pandas - Parte III](https://github.com/gustavowillam/AEDI/blob/main/Aula%2014.pdf)
+
+* ### [Colab - Biblioteca Pandas - Parte II](https://colab.research.google.com/drive/1efB2DDEqZkrDaZdGeGac5icbre4rRd8R?usp=sharing)
+
+
 # Material Complementar sobre Python
 
 ## [Canal Youtube - Agricultura Digital (PlayList sobre Python)](https://www.youtube.com/playlist?list=PLVmqNeV0L_zvTZC3uRvzMpySm4XzDVLHS)

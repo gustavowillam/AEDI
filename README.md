@@ -42,11 +42,11 @@
 
 ## [Aula 13 - Biblioteca Pandas - Parte I](https://github.com/gustavowillam/AEDI/blob/main/Aula%2013.pdf)
 
-* ### [Colab - Biblioteca Pandas - Parte I]()
+* ### [Colab - Biblioteca Pandas - Parte I](https://colab.research.google.com/drive/1ulibdhhPVKxwgJUeoVcxQGKi1fbtXQlJ?usp=sharing)
 
 ## [Aula 14 - Biblioteca Pandas - Parte II](https://github.com/gustavowillam/AEDI/blob/main/Aula%2014.pdf)
 
-* ### [Colab - Biblioteca Pandas - Parte II]()
+* ### [Colab - Biblioteca Pandas - Parte II](https://colab.research.google.com/drive/1efB2DDEqZkrDaZdGeGac5icbre4rRd8R?usp=sharing)
 
 # Material Complementar sobre Python
 

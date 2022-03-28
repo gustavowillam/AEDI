@@ -2,23 +2,23 @@
 
 ## [Aula 01 - Introdução a Algoritmos](https://github.com/gustavowillam/AEDI/blob/main/slides/01-AEDI-Introducao%20a%20Algoritmos.pdf)
 
-## [Aula 02 - Variáveis e Operadores]()
+## [Aula 02 - Variáveis e Operadores](https://github.com/gustavowillam/AEDI/blob/main/slides/02-AEDI-Variaveis%20e%20Operadores.pdf)
 
-## [Aula 03 - Introdução ao Python]()
+## [Aula 03 - Introdução ao Python]
 
-## [Aula 04 - Estrutura de Seleção]()
+## [Aula 04 - Estrutura de Seleção]
 
-## [Aula 05 - Estrutura de Repetição]()
+## [Aula 05 - Estrutura de Repetição]
 
-## [Aula 06 - Funções]()
+## [Aula 06 - Funções]
 
-## [Aula 07 - Listas - Métodos de Ordenação e Pesquisa]()
+## [Aula 07 - Listas - Métodos de Ordenação e Pesquisa]
 
-## [Aula 08 - Biblioteca Numpy]()
+## [Aula 08 - Biblioteca Numpy]
 
-## [Aula 09 - Biblioteca Pandas]()
+## [Aula 09 - Biblioteca Pandas]
 
-## [Aula 10 - Biblioteca MatplotLib e Seaborn]()
+## [Aula 10 - Biblioteca MatplotLib e Seaborn]
 
 # Material Complementar sobre Python
 

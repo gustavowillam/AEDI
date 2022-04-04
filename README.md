@@ -4,7 +4,7 @@
 
 ## [Aula 02 - Variáveis e Operadores](https://github.com/gustavowillam/AEDI/blob/main/slides/02-AEDI-Variaveis%20e%20Operadores.pdf)
 
-## [Aula 03 - Introdução ao Python]
+## [Aula 03 - Introdução ao Python](https://github.com/gustavowillam/AEDI/blob/main/slides/03-AEDI-Introducao%20ao%20Python.pdf)
 
 ## [Aula 04 - Estrutura de Seleção]
 

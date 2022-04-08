@@ -6,6 +6,9 @@
 
 ## [Aula 03 - Introdução ao Python](https://github.com/gustavowillam/AEDI/blob/main/slides/03-AEDI-Introducao%20ao%20Python.pdf)
 
+* ### [Colab - Hello World](https://colab.research.google.com/drive/1Cnmiokm3lLMsdOKcrXg8ASKgKRS2KqTa?usp=sharing)
+* ### [Colab - Comandos Sequenciais no Python](https://colab.research.google.com/drive/1l_0h3YxbZsBPRkNYXqSnm2AHFHRTRkrI?usp=sharing)
+
 ## [Aula 04 - Estrutura de Seleção]
 
 ## [Aula 05 - Estrutura de Repetição]

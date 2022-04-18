@@ -9,7 +9,9 @@
 * ### [Colab - Hello World](https://colab.research.google.com/drive/1Cnmiokm3lLMsdOKcrXg8ASKgKRS2KqTa?usp=sharing)
 * ### [Colab - Comandos Sequenciais no Python](https://colab.research.google.com/drive/1l_0h3YxbZsBPRkNYXqSnm2AHFHRTRkrI?usp=sharing)
 
-## [Aula 04 - Estrutura de Seleção]
+## [Aula 04 - Estrutura de Seleção](https://github.com/gustavowillam/AEDI/blob/main/slides/04-AEDI-Estrutura%20de%20Selecao.pdf)
+
+* ### [Colab - Comandos de Seleção no Python](https://colab.research.google.com/drive/1VU7YmaTivnwpD35kwPj07dNZfEkYYZIN?usp=sharing)
 
 ## [Aula 05 - Estrutura de Repetição]
 

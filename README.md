@@ -16,6 +16,9 @@
 ## [Aula 05 - Estrutura de Repetição](https://github.com/gustavowillam/AEDI/blob/main/slides/05-AEDI-Estrutura%20de%20Repeticao.pdf)
 
 * ### [Colab - Comandos de Repetição no Python](https://colab.research.google.com/drive/1MQ4EkbfCdVIml3nw7XAX6rxnXpeo1bA7?usp=sharing)
+* ### [Colab - Lista de Exercício Est-I Somatório](https://colab.research.google.com/drive/1ron01aKNJJcQASHj2u01Cx4mxFiXM4f5?usp=sharing)
+* ### [Colab - Lista de Exercício Est-I Produtório](https://colab.research.google.com/drive/1mraTTxi_IUeVtzcLUY4L3bjwoYkelFBI?usp=sharing)
+
 
 ## [Aula 06 - Funções]
 

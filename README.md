@@ -19,6 +19,8 @@
 * ### [Colab - Lista de Exercício Est-I Somatório](https://colab.research.google.com/drive/1ron01aKNJJcQASHj2u01Cx4mxFiXM4f5?usp=sharing)
 * ### [Colab - Lista de Exercício Est-I Produtório](https://colab.research.google.com/drive/1mraTTxi_IUeVtzcLUY4L3bjwoYkelFBI?usp=sharing)
 
+* ### [Colab - Lista de Exercício - Revisão para Prova 1](https://colab.research.google.com/drive/1mjPYP5Js6za-THb9dMOT2tvfV4wvxPIL?usp=sharing)
+
 
 ## [Aula 06 - Funções]
 

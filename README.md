@@ -22,7 +22,9 @@
 * ### [Colab - Lista de Exercício - Revisão para Prova 1](https://colab.research.google.com/drive/1mjPYP5Js6za-THb9dMOT2tvfV4wvxPIL?usp=sharing)
 
 
-## [Aula 06 - Funções]
+## [Aula 06 - Funções](https://github.com/gustavowillam/AEDI/blob/main/slides/06-AEDI-Funcoes.pdf)
+* ### [Colab - Funções no Python](https://colab.research.google.com/drive/1nJofdo0MSr8p_e9YHTnZs-bWGFD9AVdm?usp=sharing)
+
 
 ## [Aula 07 - Listas - Métodos de Ordenação e Pesquisa]
 

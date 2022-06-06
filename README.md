@@ -27,7 +27,7 @@
 
 
 ## [Aula 07 - Listas - Métodos de Ordenação e Pesquisa](https://github.com/gustavowillam/AEDI/blob/main/slides/07-AEDI-Listas-Pesquisa%20e%20Ordenacao.pdf)
-* ### [Colab - Listas no Python]
+* ### [Colab - Listas no Python](https://colab.research.google.com/drive/1EvkGtgaUSqxKVQAOubbvNnLIcDCT-K7p?usp=sharing)
 
 
 ## [Aula 08 - Biblioteca Numpy]

@@ -29,6 +29,8 @@
 ## [Aula 07 - Listas e Dicionários](https://github.com/gustavowillam/AEDI/blob/main/slides/07-AEDI-Listas-Pesquisa%20e%20Ordenacao.pdf)
 * ### [Colab - Listas e Dicionários no Python](https://colab.research.google.com/drive/1EvkGtgaUSqxKVQAOubbvNnLIcDCT-K7p?usp=sharing)
 
+* ### [Colab - Lista de Exercício - Revisão para Prova 2](https://colab.research.google.com/drive/14CdgyjmejdcosVcjpkmOPV0ayXMAU86O?usp=sharing)
+
 
 ## [Aula 08 - Biblioteca NumPy](https://github.com/gustavowillam/AEDI/blob/main/slides/08-AEDI-Numpy.pdf)
 

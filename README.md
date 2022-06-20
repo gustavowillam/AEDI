@@ -26,8 +26,8 @@
 * ### [Colab - Funções no Python](https://colab.research.google.com/drive/1nJofdo0MSr8p_e9YHTnZs-bWGFD9AVdm?usp=sharing)
 
 
-## [Aula 07 - Listas - Métodos de Ordenação e Pesquisa](https://github.com/gustavowillam/AEDI/blob/main/slides/07-AEDI-Listas-Pesquisa%20e%20Ordenacao.pdf)
-* ### [Colab - Listas no Python](https://colab.research.google.com/drive/1EvkGtgaUSqxKVQAOubbvNnLIcDCT-K7p?usp=sharing)
+## [Aula 07 - Listas e Dicionários](https://github.com/gustavowillam/AEDI/blob/main/slides/07-AEDI-Listas-Pesquisa%20e%20Ordenacao.pdf)
+* ### [Colab - Listas e Dicionários no Python](https://colab.research.google.com/drive/1EvkGtgaUSqxKVQAOubbvNnLIcDCT-K7p?usp=sharing)
 
 
 ## - [Aula 08 - Biblioteca NumPy](https://github.com/gustavowillam/AEDI/blob/main/slides/08-AEDI-Numpy.pdf)

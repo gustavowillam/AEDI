@@ -44,7 +44,8 @@
 
 ## [Aula 10 - Biblioteca MatplotLib e Seaborn](https://github.com/gustavowillam/AEDI/blob/main/slides/10-AEDI-Matplotlib%20e%20Seaborn.pdf)
 
-* ### [Colab - Biblioteca MatplotLib e Seaborn]
+* ### [Colab - Biblioteca MatplotLib e Seaborn](https://colab.research.google.com/drive/1VN2xb2RT0UCo2EL6v2gnh0c6bE6vL23F?usp=sharing)
+
 
 # Material Complementar sobre Python
 

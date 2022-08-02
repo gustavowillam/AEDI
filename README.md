@@ -46,9 +46,9 @@
 
 * ### [Colab - Biblioteca MatplotLib e Seaborn](https://colab.research.google.com/drive/1VN2xb2RT0UCo2EL6v2gnh0c6bE6vL23F?usp=sharing)
 
+* ### [Colab - Lista de Exercício - Revisão para Prova 3](https://colab.research.google.com/drive/1R9Y0twRNFbrKjn0c5X4V-ZSlPjboH6mf?usp=sharing)
 
-* ### [Colab - Lista de Exercício - Revisão para Prova 3](https://colab.research.google.com/drive/1-79Nf-oo0HUorzfwbxhLhesJR373xHfq?usp=sharing)
-
+## [Prova3 - Numpy/Pandas/MatplotLib/Seaborn](https://colab.research.google.com/drive/1-79Nf-oo0HUorzfwbxhLhesJR373xHfq?usp=sharing)
 
 # Material Complementar sobre Python
 

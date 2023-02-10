@@ -18,7 +18,7 @@
 
 ## [Aula 09 - Biblioteca Pandas](https://github.com/gustavowillam/AEDI/blob/main/slides/09-AEDI-Pandas.pdf)
 
-## [Aula 10 - Biblioteca MatplotLib e Seaborn](https://github.com/gustavowillam/AEDI/blob/main/slides/10-AEDI-Matplotlib%20e%20Seaborn.pdf)
+## [Aula 10 - Bibliotecas Gráficas - MatplotLib e Seaborn](https://github.com/gustavowillam/AEDI/blob/main/slides/10-AEDI-Matplotlib%20e%20Seaborn.pdf)
 
 # Material Complementar sobre Python
 

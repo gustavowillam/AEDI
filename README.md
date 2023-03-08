@@ -12,6 +12,8 @@
 
 ## [Aula 04 - Estrutura de Seleção](https://github.com/gustavowillam/AEDI/blob/main/slides/04-AEDI-Estrutura%20de%20Selecao.pdf)
 
+* ### [Colab - Comandos de Seleção no Python](https://colab.research.google.com/drive/1RBSWOl6AWQKa6GUl3bkIObmo-qUr9B2Y?usp=sharing)
+
 ## [Aula 05 - Estrutura de Repetição](https://github.com/gustavowillam/AEDI/blob/main/slides/05-AEDI-Estrutura%20de%20Repeticao.pdf)
 
 ## [Aula 06 - Funções](https://github.com/gustavowillam/AEDI/blob/main/slides/06-AEDI-Funcoes.pdf)

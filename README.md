@@ -20,6 +20,8 @@
 
 ## [Aula 06 - Funções](https://github.com/gustavowillam/AEDI/blob/main/slides/06-AEDI-Funcoes.pdf)
 
+* ### [Colab - Lista de Exercício - Revisão para Prova 2](https://colab.research.google.com/drive/1lq2y1V3tpzKiBp6ARQyM7n9altbNwpwn?usp=sharing)
+
 * ### [Colab - Funções no Python](https://colab.research.google.com/drive/1Z5BtJTyjKyIJhfOziv4w6mLgonbWJDx0?usp=sharing)
 
 ## [Aula 07 - Listas e Dicionários](https://github.com/gustavowillam/AEDI/blob/main/slides/07-AEDI-Listas-Pesquisa%20e%20Ordenacao.pdf)

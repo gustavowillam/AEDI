@@ -28,6 +28,10 @@
 
 ## [Aula 07 - Listas e Dicionários](https://github.com/gustavowillam/AEDI/blob/main/slides/07-AEDI-Listas-Pesquisa%20e%20Ordenacao.pdf)
 
+* ### [Colab - Listas e Dicionários no Python](https://colab.research.google.com/drive/1Ak1q7UYfTYxndIgvoY_NZ8-bvC9vWJwz?usp=sharing)
+
+* ### [Colab - Lista de Exercícios - Revisão para Prova 3]()
+
 # Material Complementar sobre Python
 
 ## [Canal Youtube - Agricultura Digital (PlayList sobre Python)](https://www.youtube.com/playlist?list=PLVmqNeV0L_zvTZC3uRvzMpySm4XzDVLHS)

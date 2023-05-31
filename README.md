@@ -30,7 +30,7 @@
 
 * ### [Colab - Listas e Dicionários no Python](https://colab.research.google.com/drive/1Ak1q7UYfTYxndIgvoY_NZ8-bvC9vWJwz?usp=sharing)
 
-* ### [Colab - Lista de Exercícios - Revisão para Prova 3]()
+* ### [Colab - Lista de Exercícios - Revisão para Prova 3]
 
 # Material Complementar sobre Python
 

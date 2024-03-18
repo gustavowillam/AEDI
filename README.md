@@ -1,4 +1,4 @@
-## [Gestão da Tecnologia da Informação]()
+# [Gestão da Tecnologia da Informação - Informes Gerais](https://github.com/gustavowillam/AEDI/blob/main/slides/Apresenta%C3%A7%C3%A3o%20do%20Curso.pdf)
 
 # Algoritmos e Estrutura de Dados I - Material das Aulas
 

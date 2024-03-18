@@ -1,3 +1,5 @@
+## [Gestão da Tecnologia da Informação]()
+
 # Algoritmos e Estrutura de Dados I - Material das Aulas
 
 ## [Aula 01 - Introdução a Algoritmos](https://github.com/gustavowillam/AEDI/blob/main/slides/01-AEDI-Introducao%20a%20Algoritmos.pdf)

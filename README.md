@@ -16,6 +16,8 @@
 
 * ### [Colab - Comandos de Seleção no Python](https://colab.research.google.com/drive/1RBSWOl6AWQKa6GUl3bkIObmo-qUr9B2Y?usp=sharing)
 
+* ### [Colab - Lista de Exercício - Revisão para Prova 1](https://colab.research.google.com/drive/1BqN0IyPvbwgJRMF0nMw9H8TC8htkPndv?usp=sharing)
+
 ## [Aula 05 - Estrutura de Repetição](https://github.com/gustavowillam/AEDI/blob/main/slides/05-AEDI-Estrutura%20de%20Repeticao.pdf)
 
 * ### [Colab - Comandos de Repetição no Python](https://colab.research.google.com/drive/1O-WhqBb_e02W_7JWBB-aYIcYUNR04naz?usp=sharing)

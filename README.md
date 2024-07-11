@@ -23,17 +23,14 @@
 * ### [Colab - Comandos de Repetição no Python](https://colab.research.google.com/drive/1O-WhqBb_e02W_7JWBB-aYIcYUNR04naz?usp=sharing)
 
 
-
-## [Aula 06 - Funções](https://github.com/gustavowillam/AEDI/blob/main/slides/06-AEDI-Funcoes.pdf)
-
-* ### [Colab - Funções no Python](https://colab.research.google.com/drive/1Z5BtJTyjKyIJhfOziv4w6mLgonbWJDx0?usp=sharing)
-
-
-
-## [Aula 07 - Listas e Dicionários](https://github.com/gustavowillam/AEDI/blob/main/slides/07-AEDI-Listas-Pesquisa%20e%20Ordenacao.pdf)
+## [Aula 06 - Listas e Dicionários](https://github.com/gustavowillam/AEDI/blob/main/slides/07-AEDI-Listas-Pesquisa%20e%20Ordenacao.pdf)
 
 * ### [Colab - Listas e Dicionários no Python](https://colab.research.google.com/drive/1Ak1q7UYfTYxndIgvoY_NZ8-bvC9vWJwz?usp=sharing)
 
+
+## [Aula 07 - Funções](https://github.com/gustavowillam/AEDI/blob/main/slides/06-AEDI-Funcoes.pdf)
+
+* ### [Colab - Funções no Python](https://colab.research.google.com/drive/1Z5BtJTyjKyIJhfOziv4w6mLgonbWJDx0?usp=sharing)
 
 
 # Material Complementar sobre Python

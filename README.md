@@ -34,6 +34,8 @@
 
 * ### [Colab - Funções no Python](https://colab.research.google.com/drive/1Z5BtJTyjKyIJhfOziv4w6mLgonbWJDx0?usp=sharing)
 
+* ### [Colab - Lista de Exercício - Revisão para Prova 3](https://colab.research.google.com/drive/17cbqdPyB2ZSmcA8ybJ4sSrjmsF2N1kCX?usp=sharing)
+
 
 # Material Complementar sobre Python
 

@@ -8,34 +8,13 @@
 
 ## [Aula 03 - Introdução ao Python](https://github.com/gustavowillam/AEDI/blob/main/slides/03-AEDI-Introducao%20ao%20Python.pdf)
 
-* ### [Colab - Hello World](https://colab.research.google.com/drive/1vV3gfgh2QNr5xSlqj3q3Ph_l7TK5w3Ix?usp=sharing)
-
-* ### [Colab - Comandos Sequenciais no Python](https://colab.research.google.com/drive/1rX-7152BkZeCZbXB490YYbb8AjSufY5X?usp=sharing)
-
 ## [Aula 04 - Estrutura de Seleção](https://github.com/gustavowillam/AEDI/blob/main/slides/04-AEDI-Estrutura%20de%20Selecao.pdf)
-
-* ### [Colab - Comandos de Seleção no Python](https://colab.research.google.com/drive/1RBSWOl6AWQKa6GUl3bkIObmo-qUr9B2Y?usp=sharing)
-
-* ### [Colab - Lista de Exercício - Revisão para Prova 1](https://colab.research.google.com/drive/1bqzJjtfTNtFOZczTuzTilxd-sO93dim7?usp=sharing)
 
 ## [Aula 05 - Estrutura de Repetição](https://github.com/gustavowillam/AEDI/blob/main/slides/05-AEDI-Estrutura%20de%20Repeticao.pdf)
 
-* ### [Colab - Comandos de Repetição no Python](https://colab.research.google.com/drive/1O-WhqBb_e02W_7JWBB-aYIcYUNR04naz?usp=sharing)
-
-
 ## [Aula 06 - Listas e Dicionários](https://github.com/gustavowillam/AEDI/blob/main/slides/07-AEDI-Listas-Pesquisa%20e%20Ordenacao.pdf)
 
-* ### [Colab - Listas e Dicionários no Python](https://colab.research.google.com/drive/1Ak1q7UYfTYxndIgvoY_NZ8-bvC9vWJwz?usp=sharing)
-
-* ### [Colab - Lista de Exercício - Revisão para Prova 2](https://colab.research.google.com/drive/1YDY8R00AlGhLGTwF_BVkFzOuQDI1amNd?usp=sharing)
-
-
 ## [Aula 07 - Funções](https://github.com/gustavowillam/AEDI/blob/main/slides/06-AEDI-Funcoes.pdf)
-
-* ### [Colab - Funções no Python](https://colab.research.google.com/drive/1Z5BtJTyjKyIJhfOziv4w6mLgonbWJDx0?usp=sharing)
-
-* ### [Colab - Lista de Exercício - Revisão para Prova 3](https://colab.research.google.com/drive/17cbqdPyB2ZSmcA8ybJ4sSrjmsF2N1kCX?usp=sharing)
-
 
 # Material Complementar sobre Python
 

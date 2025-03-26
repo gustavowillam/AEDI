@@ -8,6 +8,10 @@
 
 ## [Aula 03 - Introdução ao Python](https://github.com/gustavowillam/AEDI/blob/main/slides/03-AEDI-Introducao%20ao%20Python.pdf)
 
+* ### [Colab - Hello World](https://colab.research.google.com/drive/1vV3gfgh2QNr5xSlqj3q3Ph_l7TK5w3Ix?usp=sharing)
+
+* ### [Colab - Comandos Sequenciais no Python](https://colab.research.google.com/drive/1rX-7152BkZeCZbXB490YYbb8AjSufY5X?usp=sharing)
+
 ## [Aula 04 - Estrutura de Seleção](https://github.com/gustavowillam/AEDI/blob/main/slides/04-AEDI-Estrutura%20de%20Selecao.pdf)
 
 ## [Aula 05 - Estrutura de Repetição](https://github.com/gustavowillam/AEDI/blob/main/slides/05-AEDI-Estrutura%20de%20Repeticao.pdf)

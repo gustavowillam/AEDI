@@ -20,6 +20,8 @@
     
 ## [Aula 05 - Estrutura de Repetição](https://github.com/gustavowillam/AEDI/blob/main/slides/05-AEDI-Estrutura%20de%20Repeticao.pdf)
 
+* ### [Colab - Comandos de Repetição no Python](https://colab.research.google.com/drive/1O-WhqBb_e02W_7JWBB-aYIcYUNR04naz?usp=sharing)
+
 ## [Aula 06 - Listas e Dicionários](https://github.com/gustavowillam/AEDI/blob/main/slides/07-AEDI-Listas-Pesquisa%20e%20Ordenacao.pdf)
 
 ## [Aula 07 - Funções](https://github.com/gustavowillam/AEDI/blob/main/slides/06-AEDI-Funcoes.pdf)

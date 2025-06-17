@@ -26,6 +26,8 @@
 
 * ### [Colab - Listas e Dicionários no Python](https://colab.research.google.com/drive/1Ak1q7UYfTYxndIgvoY_NZ8-bvC9vWJwz?usp=sharing)
 
+* ### [Colab - Lista de Exercício - Revisão para Prova 2](https://colab.research.google.com/drive/1YDY8R00AlGhLGTwF_BVkFzOuQDI1amNd?usp=sharing)
+
 ## [Aula 07 - Funções](https://github.com/gustavowillam/AEDI/blob/main/slides/06-AEDI-Funcoes.pdf)
 
 # Material Complementar sobre Python

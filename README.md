@@ -30,6 +30,8 @@
 
 ## [Aula 07 - Funções](https://github.com/gustavowillam/AEDI/blob/main/slides/06-AEDI-Funcoes.pdf)
 
+* ### [Colab - Funções no Python](https://colab.research.google.com/drive/1Z5BtJTyjKyIJhfOziv4w6mLgonbWJDx0?usp=sharing)
+
 # Material Complementar sobre Python
 
 ## [Canal Youtube - Agricultura Digital (PlayList sobre Python)](https://www.youtube.com/playlist?list=PLVmqNeV0L_zvTZC3uRvzMpySm4XzDVLHS)
